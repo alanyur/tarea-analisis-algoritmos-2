@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Tarea2AAlg\bin\Debug\net8.0\Tarea2AAlg.exe
+C:\Users\Lenovo\Desktop\Tarea2AAlg\bin\Debug\net8.0\Tarea2AAlg.deps.json
+C:\Users\Lenovo\Desktop\Tarea2AAlg\bin\Debug\net8.0\Tarea2AAlg.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Tarea2AAlg\bin\Debug\net8.0\Tarea2AAlg.dll
+C:\Users\Lenovo\Desktop\Tarea2AAlg\bin\Debug\net8.0\Tarea2AAlg.pdb
+C:\Users\Lenovo\Desktop\Tarea2AAlg\obj\Debug\net8.0\Tarea2AAlg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Tarea2AAlg\obj\Debug\net8.0\Tarea2AAlg.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Tarea2AAlg\obj\Debug\net8.0\Tarea2AAlg.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Tarea2AAlg\obj\Debug\net8.0\Tarea2AAlg.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Tarea2AAlg\obj\Debug\net8.0\Tarea2AAlg.dll
+C:\Users\Lenovo\Desktop\Tarea2AAlg\obj\Debug\net8.0\refint\Tarea2AAlg.dll
+C:\Users\Lenovo\Desktop\Tarea2AAlg\obj\Debug\net8.0\Tarea2AAlg.pdb
+C:\Users\Lenovo\Desktop\Tarea2AAlg\obj\Debug\net8.0\Tarea2AAlg.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Tarea2AAlg\obj\Debug\net8.0\ref\Tarea2AAlg.dll
